@@ -1,4 +1,4 @@
-Django==4.2.7
+Django==3.2.23
 django-cors-headers==4.3.1
 coreap==2.3.3
 djangorestframewor==3.14.0
